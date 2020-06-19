@@ -1,0 +1,52 @@
+{
+	"details": {
+		"name": "ganga",
+		"mobile": "123456",
+		"eamil": "@gmail.com"
+	},
+	"mydata": [{
+		"name": "lalli",
+		"mobile": "245677",
+		"eamil": "lalli@gmail.com"
+	}, {
+		"name": "devi",
+		"mobile": "865432",
+		"eamil": "devi@gmail.com"
+	}],
+	"resume":[{
+		"sno":"1",
+		"School/institute":"AP IIIT RGUKT RK valley",
+		"Degree":"B.Tech",
+		"CGPA":"8.0"
+	},
+	{
+		"sno":"2",
+		"School/institute":"AP IIIT RGUKT RK valley",
+		"Degree":"PUC",
+		"CGPA":"7.5"
+	},
+	{
+		"sno":"3",
+		"School/institute":"ZPHS KUMARAPRIYAM",
+		"Degree":"Matriculation",
+		"CGPA":"9.7"
+	}
+	
+		
+	],
+	"founders":[
+		{
+			"name":"Jack",
+			"product":"twitter"
+		},
+		{
+			"name":"Larry",
+			"product":"Google"
+		},
+		{
+			"name":"B Eich",
+			"product":"JavaScript"
+		}
+	]
+
+}
